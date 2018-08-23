@@ -12,6 +12,7 @@
 		DA3D15B0212D01B200371589 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA3D15AF212D01B200371589 /* Assets.xcassets */; };
 		DA3D15B3212D01B200371589 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA3D15B1212D01B200371589 /* LaunchScreen.storyboard */; };
 		DA3D15BB212D022E00371589 /* JokeTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3D15BA212D022E00371589 /* JokeTVC.swift */; };
+		DA5C1497212D0CAC00405FD1 /* jokesScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA5C1496212D0CAC00405FD1 /* jokesScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DA3D15B2212D01B200371589 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA3D15B4212D01B200371589 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA3D15BA212D022E00371589 /* JokeTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JokeTVC.swift; sourceTree = "<group>"; };
+		DA5C1496212D0CAC00405FD1 /* jokesScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jokesScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				DA3D15A8212D01B200371589 /* AppDelegate.swift */,
 				DA3D15BA212D022E00371589 /* JokeTVC.swift */,
+				DA5C1496212D0CAC00405FD1 /* jokesScreen.swift */,
 				DA3D15AC212D01B200371589 /* Main.storyboard */,
 				DA3D15AF212D01B200371589 /* Assets.xcassets */,
 				DA3D15B1212D01B200371589 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA5C1497212D0CAC00405FD1 /* jokesScreen.swift in Sources */,
 				DA3D15BB212D022E00371589 /* JokeTVC.swift in Sources */,
 				DA3D15A9212D01B200371589 /* AppDelegate.swift in Sources */,
 			);
